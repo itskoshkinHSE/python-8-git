@@ -25,4 +25,4 @@ def test_main_functionality():
     a = add_numbers(1, 2)
     b = multiply_numbers(3, 4)
     result = divide_numbers(b, a)
-    assert result == 16 / 3
+    assert result == 12 / 3
